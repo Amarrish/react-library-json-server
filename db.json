@@ -1,0 +1,276 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402721499l/22467482.jpg",
+      "name": " Hundred Years of Solitude ",
+      "author": "Nizam trending",
+      "price": "99",
+      "category": "trending"
+    },
+    {
+      "id": "2",
+      "url": "https://m.media-amazon.com/images/I/51j-58kUU8L._SL500_.jpg",
+      "name": "The Age of Innocence ",
+      "author": "Edith Wharton ",
+      "price": "1999",
+      "category": "classic"
+    },
+    {
+      "id": "3",
+      "url": "https://m.media-amazon.com/images/I/516c6gUQLaL.jpg",
+      "name": "The Alchemist ",
+      "author": "Paulo Coelho",
+      "price": "699",
+      "category": "classic"
+    },
+    {
+      "id": "4",
+      "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409600899l/9723667.jpg",
+      "name": "And Then There Were None",
+      "author": " Agatha Christie",
+      "price": "455",
+      "category": "classic"
+    },
+    {
+      "id": "6",
+      "url": "https://m.media-amazon.com/images/I/41tAv3Df-IL.jpg",
+      "name": "Anna Karenina",
+      "author": " Leo Tolstoy",
+      "price": "899",
+      "category": "classic"
+    },
+    {
+      "id": "8",
+      "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869.jpg",
+      "name": "A Brief History of Time",
+      "author": " Stephen Hawking",
+      "price": "799",
+      "category": "classic"
+    },
+    {
+      "id": "9",
+      "url": "https://m.media-amazon.com/images/I/415xAq2IWKL._SL500_.jpg",
+      "name": "The Call of the Wild (Reader's Library Classics)",
+      "author": " Jack London",
+      "price": "399",
+      "category": "classic"
+    },
+    {
+      "id": "11",
+      "url": "https://prodimage.images-bn.com/pimages/9780385548953_p0_v2_s192x300.jpg",
+      "name": "The Exchange: After The Firm",
+      "author": "John Grisham",
+      "price": "455",
+      "category": "trending"
+    },
+    {
+      "id": "12",
+      "url": "https://prodimage.images-bn.com/pimages/9781649376169_p0_v4_s192x300.jpg",
+      "name": "Fourth Wing Special Edition ",
+      "author": "Rebecca Yarros",
+      "price": "999",
+      "category": "trending"
+    },
+    {
+      "id": "13",
+      "url": "https://prodimage.images-bn.com/pimages/9781649374172_p0_v16_s192x300.jpg",
+      "name": "Iron Flame",
+      "author": " Rebecca Yarros",
+      "price": "599",
+      "category": "trending"
+    },
+    {
+      "id": "14",
+      "url": "https://prodimage.images-bn.com/pimages/9780385549400_p0_v12_s192x300.jpg",
+      "name": "Lessons in Chemistry (B&N Exclusive Edition) (B&N Book of the Year)",
+      "author": " Bonnie Garmus",
+      "price": "799",
+      "category": "trending"
+    },
+    {
+      "id": "15",
+      "url": "https://prodimage.images-bn.com/pimages/9781250908452_p0_v2_s192x300.jpg",
+      "name": "A Curse for True Love (B&N Exclusive Edition) (Once Upon a Broken Heart Series #3) ",
+      "author": " Stephanie Garber",
+      "price": "599",
+      "category": "trending"
+    },
+    {
+      "id": "16",
+      "url": "https://prodimage.images-bn.com/pimages/9780063358942_p0_v2_s192x300.jpg",
+      "name": "The Hurricane Wars (B&N Exclusive Edition) ",
+      "author": "Thea Guanzon",
+      "price": "899",
+      "category": "trending"
+    },
+    {
+      "id": "17",
+      "url": "https://prodimage.images-bn.com/pimages/9781649374042_p0_v9_s192x300.jpg",
+      "name": "Fourth Wing",
+      "author": " Rebecca Yarros",
+      "price": "699",
+      "category": "trending"
+    },
+    {
+      "id": "18",
+      "url": "https://prodimage.images-bn.com/pimages/9781639733286_p0_v1_s192x300.jpg",
+      "name": "House of Earth and Blood (B&N Exclusive Edition) (Crescent City Series #1)",
+      "author": " Sarah J. Maas",
+      "price": "488",
+      "category": "trending"
+    },
+    {
+      "id": "21",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/51hrWeZXuUL._SX324_BO1204203200__z1t5l0.webp",
+      "name": "The Legacy ",
+      "author": " Yrsa Sigurdardóttir",
+      "price": "1299",
+      "category": "Investigation"
+    },
+    {
+      "id": "22",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/9780062278975_e3eh1p.webp",
+      "name": "A Thousand Pieces of You ",
+      "author": " Claudia Gray",
+      "price": "799",
+      "category": "Investigation"
+    },
+    {
+      "id": "23",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/A1Ijls6GljL_biqh7m.webp",
+      "name": " Show me: New books Fiction",
+      "price": "799",
+      "category": "Investigation"
+    },
+    {
+      "id": "24",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/31158966_ghxduj.webp",
+      "name": "Police at the Station and They Don't Look Friendly ",
+      "author": " Adrian McKinty",
+      "price": "1999",
+      "category": "Investigation"
+    },
+    {
+      "id": "26",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/93510787-d29a-46bb-87d9-783bc34927dd_1.860ff13ae84c3436d41d8c9462575f3d_yzkf44.webp",
+      "name": "Perfect Murder, Perfect Town ",
+      "author": "Lawrence Schiller",
+      "price": "799",
+      "category": "Investigation"
+    },
+    {
+      "id": "27",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/9781409176480_hn1xe8.webp",
+      "name": "Robicheaux ",
+      "author": " James Lee Burke",
+      "price": "1279",
+      "category": "Investigation"
+    },
+    {
+      "id": "28",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/81A56GrMArL_ymfmpr.webp",
+      "name": "The Spook in the Stacks ",
+      "author": " Eva Gates",
+      "price": "899",
+      "category": "Investigation"
+    },
+    {
+      "id": "29",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/the-order-29_w5tcx2.webp",
+      "name": "The Order ",
+      "author": "Daniel Silva",
+      "price": "999",
+      "category": "Investigation"
+    },
+    {
+      "id": "30",
+      "url": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/91GkMucf8sL_sscso2.webp",
+      "name": " Show me",
+      "author": " Frances Brody",
+      "price": "159",
+      "category": "Investigation"
+    },
+    {
+      "id": "31",
+      "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339423248l/60931.jpg",
+      "name": "Kindred ",
+      "author": " Octavia E. Butler",
+      "price": "99999",
+      "category": "classic"
+    },
+    {
+      "id": "50",
+      "url": "https://c02.purpledshub.com/uploads/sites/41/2021/05/project-hail-mary-36469e9.jpg",
+      "name": "Project Hail Mary",
+      "author": "Andy Weir",
+      "price": "8999",
+      "category": "Science"
+    },
+    {
+      "id": "60",
+      "url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1522777316-if-you-want-to-bring-an-alligator-to-school-dont-1522777244.jpg?crop=1.00xw:0.669xh;0,0.109xh&resize=980:*",
+      "name": "If You Ever Want to Bring an Alligator to School, Don't! ",
+      "author": "Elise Parsley",
+      "price": "29",
+      "category": "kids"
+    },
+    {
+      "id": "62",
+      "url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1688073303-B1G348UJ1rL.jpg?crop=0.944xw:0.773xh;0.0192xw,0.125xh&resize=980:*",
+      "name": "Knight Owl ",
+      "author": " Christopher Denise",
+      "price": "588",
+      "category": "kids"
+    },
+    {
+      "id": "64",
+      "url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1688072519-81a6XLbOXIL.jpg?crop=0.644xw:0.827xh;0.173xw,0.173xh&resize=980:*",
+      "name": "I LOVE Strawberries!",
+      "author": " Shannon Anderson",
+      "price": "849",
+      "category": "kids"
+    },
+    {
+      "id": "65",
+      "url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1522697255-1455730883-if-you-give-a-mouse-a-cookie.png?crop=0.875xw:1.00xh;0,0&resize=980:*",
+      "name": "If You Give a Mouse a Cookie",
+      "author": " Laura Numeroff",
+      "price": "444",
+      "category": "kids"
+    },
+    {
+      "id": "53",
+      "url": "https://c02.purpledshub.com/uploads/sites/41/2021/05/foodology-8efb624.jpg",
+      "name": "Foodology: A Food-lover’s Guide to Digestive Health and Happiness",
+      "author": "Saliha Mahmood Ahmed",
+      "price": "1299",
+      "category": "Science"
+    },
+    {
+      "id": "54",
+      "url": "https://c02.purpledshub.com/uploads/sites/41/2021/05/be-who-you-want-b6ae2bf.jpg",
+      "name": "Be Who You Want: Unlocking the Science of Personality Change",
+      "author": "Christian Jarrett",
+      "price": "5996",
+      "category": "Science"
+    },
+    {
+      "id": "55",
+      "url": "https://c02.purpledshub.com/uploads/sites/41/2021/05/motherhood-complex-fa079f0.jpg",
+      "name": "The Motherhood Complex: The Story of Our Changing Selves",
+      "author": "Melissa Hogenboom",
+      "price": "899",
+      "category": "Science"
+    },
+    {
+      "id": "56",
+      "url": "https://c02.purpledshub.com/uploads/sites/41/2021/07/Mysteries-of-the-quantum-universe-Best-books-f0c9a04.jpg",
+      "name": "Mysteries Of The Quantum Universe",
+      "author": "Thibault Damour & Mathieu Burniat",
+      "price": "5999",
+      "category": "Science"
+    }
+  ],
+  "categories": []
+}
